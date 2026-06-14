@@ -1,6 +1,6 @@
 # Form Validation App
 
-<h3>Live link:- </h3>
+<h3>Live link:-https://md-raquib-hussain90.github.io/Form-validation/ </h3>
 
 A modern and responsive form validation application built with HTML, CSS, and JavaScript. The project demonstrates client-side form validation using Regular Expressions (Regex) and provides real-time feedback to users.
 
@@ -55,6 +55,6 @@ Add a screenshot or GIF of the project here.
 
 ## 👨‍💻 Author
 
-Sam
+MD RAQUIB HUSSAIN
 
 Frontend Developer passionate about building modern web applications and continuously improving JavaScript skills.
