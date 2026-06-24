@@ -19,6 +19,7 @@ A modern and responsive form validation application built with HTML, CSS, and Ja
 - HTML5
 - CSS3
 - JavaScript (ES6)
+- DOM manipulation 
 
 ## 📋 Validation Rules
 
